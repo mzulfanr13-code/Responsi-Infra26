@@ -499,3 +499,9 @@ Mengganti placeholder dengan data mahasiswa yang sebenarnya.
 'H1H024008',
 'Mohammad Zulfan Ramadhan'
 ```
+
+###Hasil Akhir
+<img width="775" height="337" alt="Screenshot 2026-06-08 143836" src="https://github.com/user-attachments/assets/914f6160-eb14-4ce5-8461-e21c53c4bd3d" />
+<img width="756" height="327" alt="Screenshot 2026-06-08 143858" src="https://github.com/user-attachments/assets/2c8b7394-4a1c-4bb6-9409-52e1fdba5d4f" />
+<img width="732" height="335" alt="Screenshot 2026-06-08 143849" src="https://github.com/user-attachments/assets/27f1b058-a208-4db7-bd56-bac215f38cb0" />
+<img width="1881" height="176" alt="Screenshot 2026-06-08 143659" src="https://github.com/user-attachments/assets/3c4ba530-4d0c-4723-9b94-b01bb1aec337" />
